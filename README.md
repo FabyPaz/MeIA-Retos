@@ -1,4 +1,4 @@
-# MeIA-Retos Detección de Anomlías
+# MeIA-Retos Detección de Anomalías
 
 La detección de anomalías en grandes volúmenes de datos es un área de investigación en la que la inteligencia artificial, específicamente las redes neuronales, desempeñan un papel crucial. Este enfoque permite identificar patrones y comportamientos inusuales dentro de un conjunto de datos, lo que es especialmente útil en situaciones donde los datos normales son ampliamente conocidos y las desviaciones de estos patrones pueden indicar eventos anómalos o potencialmente peligrosos.
 
